@@ -1,0 +1,20 @@
+blinker==1.9.0
+build==1.3.0
+click==8.2.1
+cmake==4.1.0
+colorama==0.4.6
+dlib @ file:///C:/Users/Dhanapal_Angamuthu/flask/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
+dlib-bin @ https://files.pythonhosted.org/packages/66/b3/f821f037f94e21058269ea9c5773d8768dc64ab9d72889185c534ddae72f/dlib_bin-19.24.6-cp312-cp312-win_amd64.whl#sha256=17d3bd6ee4fdaf580d0d6482c283b467a896b08d35e583609aa6d113271330c7
+face-recognition==1.3.0
+face_recognition_models==0.3.0
+Flask==3.1.2
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+numpy==1.26.4
+opencv-python==4.12.0.88
+packaging==25.0
+pillow==11.3.0
+pyproject_hooks==1.2.0
+setuptools==80.9.0
+Werkzeug==3.1.3
